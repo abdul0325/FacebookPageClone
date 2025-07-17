@@ -7,7 +7,7 @@ export default function LikeUpper() {
         viewBox="0 0 24 24"
         strokeWidth={1}
         stroke="blue"
-        className="size-7 mt-2 ml-8 fill-blue-500 stroke-blue-500"
+        className="size-7 mt-4 ml-8 fill-blue-500 stroke-blue-500"
       >
         <path
           strokeLinecap="round"
@@ -16,7 +16,7 @@ export default function LikeUpper() {
         />
       </svg>
 
-      <h1 className="mt-2 text-xl ml-1">960</h1>
+      <h1 className="mt-4 text-xl ml-2">960</h1>
     </div>
   );
 }
